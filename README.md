@@ -10,7 +10,7 @@ Track item price until reach the desire limit
  - Run app.py
  - Browser open localhost://127.0.0.1:27017
 
-Demo link: 138.68.232.120 (live for 60 days)
+Demo link: 138.68.232.120 (server down at April 24th)
 =======
  - Run app.py  
  - Browser open localhost://127.0.0.1:27017  
